@@ -62,6 +62,7 @@ Learning is driven by a reward function encouraging goal-reaching and avoiding o
 🟢 Evaluation in Dynamic Obstacle Scenario
 🎥 Demo Video
 
+https://github.com/Maryamallawi96/ppo-lstm-drone-nav/blob/main/media/Testing%20wih%20path.MOV
 
 
 
